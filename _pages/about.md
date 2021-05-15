@@ -73,3 +73,28 @@ in chronological order, they are tagged with ["restoration"](/tags#restoration).
 not a purist, but I wanted to keep the car "as original as possible". I used plenty of after-market
 parts in this project, but I deliberately didn't want to make a "restomod", with features that would've
 looked out of place in the 1970's.
+
+The goal in April 2020 was to get Pearline running so that I could enjoy her every week. Even if for a
+few hours; not a car that I take out every 6 months for a few minutes to keep the cobwebs out. Time
+will tell if I meet that goal.
+
+## The Future
+
+I'm looking at a couple of big purchases to go along with the restoration project. I suppose my blog
+posts will determine if I follow through or not. Here's the 2 year plan:
+
+* Buy a trailer that I can tow Pearline to auto shows further than 100 miles. I have a utility trailer
+but it's not made for this kind of use. I need at least a 16' trailer that's made for towing a vehicle.
+
+* Build a receiver hitch for the back bumper. There are plans on the internet where some talented 
+designers have figured out a usable design. I need this because...
+
+* I want to get a tear-drop trailer to tow behind the MG. We used to love camping and exploring, but
+the 2 fifth wheels we've owned were a pain to get out of storage and on the road. I've been looking at
+"retro" tear-drop models from a couple of manufacturers but they are 15-18 months out on production.
+There's a local man that builds off-road tear-drops for Jeeps and he has some designs on a model for
+classic cars. I may work with him on a design for the MGB.
+
+I'm doing all this work because I don't see myself riding a motorcycle in 5 years. Too many bad
+lifestyle choices have left my lower back in a mess. I'll be much better off driving a slow classic
+car than a motorcycle that tempts me to drive 150mph.
