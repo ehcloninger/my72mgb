@@ -1,11 +1,12 @@
 ---
 permalink: /about/
 title: "About"
+toc: true
+toc_label: ""
+toc_icon: "car"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 ## Pearline's Story
-
-### The Early Story
 
 Pearline was born in England (more details forthcoming), some time in 1971 or 1972. After crossing the
 Atlantic, she was sold to someone that lived in a small town northeast of Dallas, Texas. I know this, 
@@ -19,7 +20,7 @@ when a vehicle was serviced. It probably was put into an embossing machine, like
 card imprinter, so that multiple copies were made--one for the customer, one for the service department,
 and one for the billing department.
 
-### Joins the Family
+### Pearline Joins the Family
 
 At some point, in the late 1970's, my sister's father-in-law, Ben, purchased the car. My 
 brother-in-law remembers that he was still in college when his dad pulled up in this car. 
@@ -89,7 +90,7 @@ but it's not made for this kind of use. I need at least a 16' trailer that's mad
 * Build a receiver hitch for the back bumper. There are plans on the internet where some talented 
 designers have figured out a usable design. I need this because...
 
-* I want to get a tear-drop trailer to tow behind the MG. We used to love camping and exploring, but
+* ... I want to get a tear-drop trailer to tow behind the MG. We used to love camping and exploring, but
 the 2 fifth wheels we've owned were a pain to get out of storage and on the road. I've been looking at
 "retro" tear-drop models from a couple of manufacturers but they are 15-18 months out on production.
 There's a local man that builds off-road tear-drops for Jeeps and he has some designs on a model for
@@ -98,3 +99,9 @@ classic cars. I may work with him on a design for the MGB.
 I'm doing all this work because I don't see myself riding a motorcycle in 5 years. Too many bad
 lifestyle choices have left my lower back in a mess. I'll be much better off driving a slow classic
 car than a motorcycle that tempts me to drive 150mph.
+
+## Credit Where Credit is Due
+
+This site is built using the [Jekyll](https://jekyllrb.com/) static site generator. The template is
+[Minimal Mistakes](https://mademistakes.com/) by Michael Rose. Hosting is currently on Amazon AWS.
+Code for this site is available at [Github](https://github.com/ehcloninger/my72mgb).

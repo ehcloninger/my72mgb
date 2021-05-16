@@ -2,9 +2,9 @@
 title: "My Son's Senior Prom"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Events
 tags: 
-  - events
+  - prom
 gallery:
   - url: /assets/images/2015-05-16/IMGP2352.jpg
     image_path: /assets/images/2015-05-16/thumbnails/IMGP2352.jpg

@@ -5,6 +5,7 @@ categories:
   - Blog
 tags: 
   - restoration
+  - prom
 gallery:
 - url: /assets/images/2021-04-24/20210423_110611.jpg
   image_path: /assets/images/2021-04-24/thumbnails/20210423_110611.jpg

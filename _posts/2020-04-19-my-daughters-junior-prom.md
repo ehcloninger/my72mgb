@@ -2,9 +2,9 @@
 title: "My Daughter's Junior Prom"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Events
 tags: 
-  - events
+  - prom
 gallery:
   - url: /assets/images/2020-04-19/IMGP2443.jpg
     image_path: /assets/images/2020-04-19/thumbnails/IMGP2443.jpg
