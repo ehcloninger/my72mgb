@@ -1,11 +1,11 @@
 ---
-title: "Promenade!"
+title: "Promenade! (aka My Daughter's Senior Prom)"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags: 
   - restoration
-  - prom
+  - events
 gallery:
 - url: /assets/images/2021-04-24/20210423_110611.jpg
   image_path: /assets/images/2021-04-24/thumbnails/20210423_110611.jpg
@@ -57,14 +57,17 @@ Today's the big day--my daughter's Senior Prom. All the work of the last year co
 
 <!--more-->
 
-Yesterday, I did a lot of cleanup on the car. I put on pieces of trim and other decorative stuff. I wiped down all the
-surfaces with Armor-All wipes. I washed Pearline to get the surface dust/dirt off everything. I spray Macquire's tire cleaner
-on the tires and put on the wheel rims. I put on the badges and logos.
+Yesterday, I did a lot of [cleanup on the car](/blog/back-home-again/). I put on pieces of trim and other decorative stuff. 
+I wiped down all the surfaces with Armor-All wipes. I washed Pearline to get the surface dust/dirt off everything. I sprayed
+Macquire's tire cleaner on the tires and put on the wheel rims. I put on the badges and logos.
 
 Today is to put in the carpet and seats. I started about 8 AM on a somewhat chilly and overcast morning. I laid out the lining
 and the carpet so I knew what went where. Then, I started the assembly process. I dry-fit in all the carpets and found them to
 be more-or-less what was wanted. Then, I took a can of [3M #90 spray adhesive](https://www.amazon.com/3M-Hi-Strength-Adhesive-INVERTED-aerosol/dp/B004M8SHWY/ref=sr_1_2) and started with the transmission tunnel. Once I had the
 heat shielding in, I started on the carpet.
+
+Before putting the carpets in permanently, I ran power lines for the amplifier and speaker cables, so when I finally go to
+put in the sound system, that I'll already have the wires under the carpets.
 
 About noon, I had the carpets in that would go under the seats. It's about this time that my friend Todd showed up. Todd is
 a rancher and carries a lot of tools in his truck. He also has a good eye for mechanic stuff. Between the two of us (and a

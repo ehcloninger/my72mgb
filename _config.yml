@@ -26,7 +26,8 @@ logo: "/favicon.png"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -59,18 +60,17 @@ plugins:
 author:
   name   : "Pearline White"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "That car you saw"
+  bio    : "That spiffy car you saw somewhere"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://my72mgb.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/my1972mgb"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram-square"
       url: "https://instagram.com/my1972mgb"
-
+    - label: "EricCloninger.com"
+      icon: "fas fa-fw fa-link"
+      url: https://EricCloninger.com"
 footer:
   links:
     - label: "Twitter"
