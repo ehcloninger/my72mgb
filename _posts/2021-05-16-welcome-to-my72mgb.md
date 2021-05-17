@@ -5,6 +5,7 @@ categories:
   - Blog
 tags: 
   - restoration
+pinned: true
 ---
 
 I've been working on a site for Pearline's adventures. I'm now ready to show it off. Warning, gory technical details ahead.

@@ -1,6 +1,8 @@
 main:
   - title: "Posts"
     url: /posts/
+  - title: "Photos"
+    url: /photos/
   - title: "Tags"
     url: /tags/
   - title: "About"
