@@ -74,7 +74,11 @@ in some auto forums, and it appears this was the original owner of the car from 
 plates were used in the service department with a machine similar to an old-fashioned credit card
 device. The owners log book would be stamped to show when work was done.
 
+{:refdef: style="text-align: center;"}
 ![](/assets/images/2020-11-16/20201101_142729.jpg){:width="50%"} 
+<br/>*Original owners' service plate*
+{: refdef}
+
 
 My sisters' father-in-law bought it around 1978. I thought the car was originally purchased in Florida, 
 but apparently I was wrong. Telephone, TX, stamped on the plate, is about 2 hours drive northeast of Dallas. 

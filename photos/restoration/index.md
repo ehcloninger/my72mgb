@@ -93,7 +93,7 @@ gallery:
   - url: /photos/restoration/20210502_161232.jpg
     image_path: /photos/restoration/thumbnails/20210502_161232.jpg
     alt: 
-    title: Engine view. Much cleaner than a year ago, but still needs work. That will be Phase 5 in 2022.
+    title: Engine view. Much cleaner than a year ago, but still needs work. That will be Phase 4 in 2022.
   - url: /photos/restoration/20210502_161322.jpg
     image_path: /photos/restoration/thumbnails/20210502_161322.jpg
     alt: 
