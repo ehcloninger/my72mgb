@@ -15,14 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: My72MGB
 email: ericsmgb@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Here's a story of a lovely lady.
 minimal_mistakes_skin: default
 search: true
 favicon: "/favicon.png" # the favicon for your site
 logo: "/favicon.png"
+og_image: "/favicon.png"
 
 # Build settings
 markdown: kramdown
@@ -67,7 +65,7 @@ author:
       url: "https://twitter.com/my1972mgb"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram-square"
-      url: "https://instagram.com/my1972mgb"
+      url: "https://instagram.com/my72mgb"
     - label: "EricCloninger.com"
       icon: "fas fa-fw fa-link"
       url: https://EricCloninger.com"
@@ -78,7 +76,7 @@ footer:
       url: "https://twitter.com/my1972mgb"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram-square"
-      url: "https://instagram.com/my1972mgb"
+      url: "https://instagram.com/my72mgb"
 
 github: [metadata]
 

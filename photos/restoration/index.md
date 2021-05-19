@@ -103,7 +103,7 @@ gallery:
 [Back to Gallery](..)
 
 This gallery is a condensed version of all the blog posts and photos I collected during Pearline's restoration in 2020 
-and 2021. If you want the blow-by-blow details of the project, read [these posts](http://localhost:4000/tags/#restoration)
+and 2021. If you want the blow-by-blow details of the project, read [these posts](/tags/#restoration)
 in chronological order, starting in September 2020.
 
 {% include gallery %}
