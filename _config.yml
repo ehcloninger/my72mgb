@@ -18,9 +18,9 @@ email: ericsmgb@gmail.com
 description: Here's a story of a lovely lady.
 minimal_mistakes_skin: default
 search: true
-favicon: "/favicon.png" # the favicon for your site
-logo: "/favicon.png"
-og_image: "/favicon.png"
+favicon: "https://my72mgb.com/favicon.png" # the favicon for your site
+logo: &logo "https://my72mgb.com/favicon.png"
+og_image: "https://my72mgb.com/assets/images/bio-photo.jpg"
 
 # Build settings
 markdown: kramdown
@@ -30,6 +30,10 @@ theme: minimal-mistakes-jekyll
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
+
+twitter:
+  username: my1972mgb
+  image: https://my72mgb.com/favicon.png
 
 include:
   - _pages
@@ -59,13 +63,9 @@ author:
   name   : "Pearline White"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "That spiffy car you saw somewhere"
+  twitter: "https://twitter.com/my1972mgb"
+  instagram: "https://www.instagram.com/my72mgb/"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/my1972mgb"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram-square"
-      url: "https://instagram.com/my72mgb"
     - label: "EricCloninger.com"
       icon: "fas fa-fw fa-link"
       url: https://EricCloninger.com"
@@ -100,7 +100,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+      image:
+        twitter: *logo
+      twitter:
+        card: summary
+        
 category_archive:
   type: liquid
   path: /categories/
