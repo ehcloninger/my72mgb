@@ -12,6 +12,8 @@ I've been working on a site for Pearline's adventures. I'm now ready to show it 
 
 <!--more-->
 
+[Bah! Screw all that, show me the pics!](/photos/)
+
 When I started working on Pearline, I wanted to give her a separate site from my own personal blog. Not that I 
 need that much separation between my personal life and this hobby, but I wanted to try out some new ideas with
 a new website. This project gave me the opportunity.
