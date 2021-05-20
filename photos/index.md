@@ -17,4 +17,4 @@ Here's how she looked during her restoration project.
 
 
 As we start going places this summer (2021), more photos will appear here. Follow Pearline on 
-[Twitter](https://twitter.com/my1972mgb) and/or [Instagram](https://instagram.com/my72mgb) to get alerts.
+[Twitter](https://twitter.com/my1972mgb){:target="_blank"} and/or [Instagram](https://instagram.com/my72mgb){:target="_blank"} to get alerts.
