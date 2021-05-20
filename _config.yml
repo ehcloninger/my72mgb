@@ -63,8 +63,8 @@ author:
   name   : "Pearline White"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "That spiffy car you saw somewhere"
-  twitter: "https://twitter.com/my1972mgb"
-  instagram: "https://www.instagram.com/my72mgb/"
+  twitter: "my1972mgb"
+  instagram: "my72mgb"
   links:
     - label: "EricCloninger.com"
       icon: "fas fa-fw fa-link"
