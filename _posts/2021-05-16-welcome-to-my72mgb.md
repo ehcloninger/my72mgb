@@ -32,3 +32,23 @@ way, they show up easily on these pages.
 
 I have a social accounts on [Twitter](https://twitter.com/my1972mgb) and [Instagram](https://www.instagram.com/my72mgb/) 
 that I plan to use to build a small following of old friends and new friends that we meet on the road.
+
+### The Really Gory Details
+
+If you're really interested in how all this works, the underlying technologies that run this site are:
+
+* The [Jekyll](https://jekyllrb.com) publishing system, by GitHub
+* Microsoft [Visual Studio Code](https://code.visualstudio.com/) for editing everything that I write and keeping all the files in their proper places
+* The git version control system and the [GitHub](https://github.com) public repository hub
+* The *Windows Subsystem for Linux*, for testing on my PC prior to making it public
+* The [Netlify](https://netlify.com) build and deploy system. 
+
+I recently switched to using Netlify after an online conversation with another Jekyll user. I was previously 
+using Amazon AWS to host the site and handle all the plumbing that securely deploys and delivers the site. As 
+an experiment, I tried a small site on Netlify and had it running within 15 minutes. That was all I needed to
+switch. It took me about 30 minutes to get Netlify configured with DNS and LetsEncrypt.
+
+With AWS, there's so much configuring because it's a general-purpose architecture. Netlify is made for my specific 
+use case and others very similar to it. All the ugly parts are hidden behind a bunch of sane defaults. Oh, and it's 
+free for personal use. Not that my $4/month bills on Amazon bothered me, but having a better system that costs 
+nothing is pretty amazing.

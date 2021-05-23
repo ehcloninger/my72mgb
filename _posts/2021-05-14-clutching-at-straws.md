@@ -35,3 +35,9 @@ to expedite the process, I paid for premium shipping.
 
 I paid $50 to buy and ship 3 parts weighing less than 3 ounces. Nobody said restoring a 50-year old car was
 cheap or easy.
+
+---
+
+**Update: 2021-05-21**: I talked with Tim and he had Pearline on the lift that afternoon. He was disconnecting
+the clutch from the transmission as I called. It was about 3:00 PM on Friday, so I probably won't hear
+anything back until middle or late next week. I'm itching to have her back, maybe by Memorial Day weekend.
