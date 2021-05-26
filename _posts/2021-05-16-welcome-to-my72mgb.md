@@ -12,7 +12,7 @@ I've been working on a site for Pearline's adventures. I'm now ready to show it 
 
 <!--more-->
 
-[Bah! Screw all that, show me the pics!](https://www.smugmug.com/app/organize/My-1972-MGB)
+[Bah! Screw all that, show me the pics!](https://photos.ericcloninger.com/My-1972-MGB)
 
 When I started working on Pearline, I wanted to give her a separate site from my own personal blog. Not that I 
 need that much separation between my personal life and this hobby, but I wanted to try out some new ideas with
