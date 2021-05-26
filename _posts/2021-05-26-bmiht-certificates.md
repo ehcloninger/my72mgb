@@ -29,7 +29,10 @@ beloved British car, the documentation is an interesting chapter in the life of 
 
 The Trust issues a "Certified Copy" of the factory record for a vehicle. I purchased one of these
 as well as the "technical specification" for Pearline. You can see these below, minus the couple
-of bits that might assist someone in relieving me of her comforting presence.
+of bits that might assist someone in relieving me of her comforting presence. The certificate is
+a very heavy "resume paper" (80#) faux parchment while the technical specifications are on a heavy
+grade (28#) printer paper. The signatures appear to be human-made although I have no idea if the 
+signature represents someone affiliated with the museum or not.
 
 I don't think there's anything on these documents that are surprising to see. The body and engine
 numbers line up. It's good to know the firing order, although I'm pretty sure that's illustrated
