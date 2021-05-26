@@ -16,7 +16,8 @@ gallery:
     title: ""
 ---
 
-Back in April, I ordered the "official" documentation for Pearline. The certificates arrived today.
+On April 23, I ordered copies of the "official" documentation for Pearline. I got the shipping notice on May 14.
+The certificates arrived today via international post from the UK.
 
 <!--more-->
 
