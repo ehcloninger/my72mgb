@@ -41,3 +41,12 @@ cheap or easy.
 **Update: 2021-05-21**: I talked with Tim and he had Pearline on the lift that afternoon. He was disconnecting
 the clutch from the transmission as I called. It was about 3:00 PM on Friday, so I probably won't hear
 anything back until middle or late next week. I'm itching to have her back, maybe by Memorial Day weekend.
+
+**Update: 2021-05-26**: After spending a day chained to my desk, I decided to kick off early and go by Tim's
+repair shop. They were shutting the bay doors as I pulled into the lot. Tim waved, with his signature straw
+hat in hand. I met him outside and heard the blow-by-blow of how they worked on my car. 
+
+Apparently, the MGB has so little wiggle room between the transmission and the motor that they had to remove the 
+motor from the mounts to work on the clutch. Where he thought this was a "5-hour" job (according to the rate manual), 
+it's now closer to 12. I'm fine paying him and his crew what their work is worth. He says I might have Pearline 
+back as late as tomorrow night or maybe Friday.
