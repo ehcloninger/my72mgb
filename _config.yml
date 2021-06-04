@@ -68,7 +68,10 @@ author:
   links:
     - label: "EricCloninger.com"
       icon: "fas fa-fw fa-link"
-      url: https://EricCloninger.com"
+      url: https://EricCloninger.com
+    - label: "Photos"
+      icon: "fas fa-fw fa-camera"
+      url: https://photos.ericcloninger.com/My-1972-MGB
 footer:
   links:
     - label: "Twitter"
