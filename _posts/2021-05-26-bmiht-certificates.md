@@ -1,5 +1,5 @@
 ---
-title: "British Motor Industry Heritage Trust Certicates"
+title: "British Motor Industry Heritage Trust Certificates"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
