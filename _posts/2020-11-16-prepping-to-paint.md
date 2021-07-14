@@ -64,7 +64,7 @@ gallery:
     title: "Separation anxiety."
 ---
 
-Now that I've [found a body shop](/blog/2020/10/21/shopping-for-body-shops.html), I worked to remove the 
+Now that I've [found a body shop](/blog/shopping-for-body-shops/), I worked to remove the 
 parts that shouldn't be there. The excess trim pieces, the convertible top connectors, the chrome badges around the body.
 
 <!--more-->
