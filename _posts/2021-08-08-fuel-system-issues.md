@@ -5,6 +5,7 @@ categories:
   - Blog
 tags: 
   - photos
+  - brokedown
 gallery: 
   - url: /assets/images/2021-08-08/20210725_131300.jpg
     image_path: /assets/images/2021-08-08/thumbnails/20210725_131300.jpg

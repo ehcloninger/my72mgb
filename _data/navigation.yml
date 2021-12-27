@@ -3,6 +3,7 @@ main:
     url: /posts/
   - title: "Photos"
     url: https://photos.ericcloninger.com/My-1972-MGB
+    target: _blank
   - title: "Tags"
     url: /tags/
   - title: "About"

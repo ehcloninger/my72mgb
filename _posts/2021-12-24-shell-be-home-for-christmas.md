@@ -5,6 +5,7 @@ categories:
   - Blog
 tags: 
   - photos
+  - repairs
 gallery: 
   - url: /assets/images/2021-12-24/20211224_134842.jpg
     image_path: /assets/images/2021-12-24/thumbnails/20211224_134842.jpg

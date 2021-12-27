@@ -4,7 +4,6 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags: 
-  - restoration
   - events
 gallery:
 - url: /assets/images/2021-04-24/20210423_110611.jpg
