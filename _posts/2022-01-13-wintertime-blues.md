@@ -25,8 +25,9 @@ gallery:
     title: ""
 ---
 
-We've had a bit of nice weather this week, between bad weather systems and COVID, I felt the
-need to get out. I managed to coax Pearline out for a drive a couple times.
+We've had a bit of nice weather this week. Between bad weather and the general stress of dealing
+with COVID protocols, I felt the need to get out of the house. I've managed to coax Pearline out 
+for a drive a couple times.
 
 <!--more-->
 
@@ -39,11 +40,11 @@ With the straight pipes, she will wake the dead. I suppose my neighbors would be
 I remember all the years of the neighbor kid idling his turbo Dodge diesel truck in his parents'
 driveway. Then, I don't feel so bad.
 
-Out on the road, both times this week, after about 10 miles on I-40, I pull into town after getting
-her up to 75 MPH and 3,500 RPM, I pull to a stop to have her idling at almost 3,000 RPM. I pop the 
-hood/bonnet and find that the idler screw has worked itself to a position where she's wide open. A
-quick turn with a screwdriver gets her back down to normal RPMs, but I may need to get a nylon nut
-on that screw or a bit of Loc-Tite.
+Out on the road, both times this week, after about 10 miles on I-40 driving the legal speed limit
+at 3,500 RPM, I pulled to a stop to have her idling at almost 3,000 RPM. I popped the hood/bonnet 
+and found that the idler screw has worked itself to a position where she idles wide open. A quick 
+turn with a screwdriver gets her back down to normal RPMs, but I may need to get a nylon nut on 
+that screw or a bit of Loc-Tite.
 
 Either way, a bad day driving an LBC is better than the best day working. Unless you need a tow truck.
 
