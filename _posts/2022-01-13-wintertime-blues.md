@@ -5,7 +5,7 @@ categories:
   - Blog
 tags: 
   - photos
-  - repairs
+  - trip report
 gallery: 
   - url: /assets/images/2022-01-13/20220108_170225.jpg
     image_path: /assets/images/2022-01-13/thumbnails/20220108_170225.jpg
