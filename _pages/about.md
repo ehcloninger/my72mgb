@@ -103,5 +103,6 @@ car than a motorcycle that tempts me to drive 150mph.
 ## Credit Where Credit is Due
 
 This site is built using the [Jekyll](https://jekyllrb.com/) static site generator. The template is
-[Minimal Mistakes](https://mademistakes.com/) by Michael Rose. Hosting is currently on Amazon AWS.
-Code for this site is available at [Github](https://github.com/ehcloninger/my72mgb).
+[Minimal Mistakes](https://mademistakes.com/) by Michael Rose. Hosting is currently on 
+[Netlify](https://netlify.com). Code for this site is available at 
+[Github](https://github.com/ehcloninger/my72mgb).
