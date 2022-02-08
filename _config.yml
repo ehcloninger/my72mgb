@@ -19,7 +19,7 @@ description: Here's a story of a lovely lady.
 minimal_mistakes_skin: default
 search: true
 favicon: "https://my72mgb.com/favicon.png" # the favicon for your site
-logo: &logo "https://my72mgb.com/favicon.png"
+logo: &logo "/assets/images/other/mgb-outline-1.png"
 og_image: "https://my72mgb.com/assets/images/bio-photo.jpg"
 
 # Build settings
