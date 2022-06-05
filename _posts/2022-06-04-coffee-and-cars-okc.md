@@ -89,7 +89,7 @@ Today, I had my chance.
 I had someone tell me about the OKC Coffee and Cars at Chisholm Creek (north OKC) about
 a year ago. Every month, I thought about taking Pearline up there, but life always
 managed to occupy my time. Today, I found the time with a little help from my daughter
-and nudging my fiancé (yes, you read it here first).
+and nudging from my fiancé (yes, you read it here first).
 
 Last night, I printed up a sign with her details and this website (so welcome, new
 visitors). I loaded my tablet with a bunch of the photos you see here, just in case.
