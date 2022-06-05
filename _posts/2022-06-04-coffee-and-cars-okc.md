@@ -111,7 +111,7 @@ but had to tell me about the MGA he drove when he was a teenager. That would pro
 pattern, over and over. Mostly men, but a few ladies too, all older than I, had stories about
 how MG's were a part of their lives. One man returned several times to tell yet another story
 about he and his brother in their MGs. Young people would stop by to check Pearline out as well,
-even though the shiny Porsche, Corvette, and Maclaren nearby were much more to their tastes.
+even though the shiny Porsches, Corvettes, and McLaren nearby were much more to their tastes.
 
 I walked around as well, looking at the variety. There were lots of Corvettes, which I have
 great affection toward. There were plenty of late 60's/early 70's muscle cars, a fair number
