@@ -29,4 +29,6 @@ The concensus is that I have an air bubble in the coolant and I need to drain it
 
 While we're at it, I'm going to update the thermostat, put in a radiator shroud to help with the cooling, and replace the 6-blade metal fan with a 7-blade nylon fan. That's also supposed to help. I'm also planning to have him replace the fuel pump, since I bought it 9 months ago but haven't put it on myself.
 
+On a related note, I've been buying parts lately from [LBCarCo](https://lbcarco.com) out of Michigan. The owners are really nice and they charge a fair rate for shipping. I still spend money with Moss when they are having a sale with free shipping, but if I need a couple of gaskets, it's much easier buying from LBCarCo because they usually ship in 1 day.
+
 Maybe we'll get in another few weeks of nice weather to drive her after he's done. I've done a few trips this summer, none more than an hour away, so every bit of repair makes her even funner to drive.
