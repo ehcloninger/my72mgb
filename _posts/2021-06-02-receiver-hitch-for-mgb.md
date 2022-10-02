@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags: 
-  - howto
+  - thinking
 gallery: 
   - url: /assets/images/2021-06-02/Hitch_Schematic_Parts_List_P.jpg
     image_path: /assets/images/2021-06-02/thumbnails/Hitch_Schematic_Parts_List_P.jpg
