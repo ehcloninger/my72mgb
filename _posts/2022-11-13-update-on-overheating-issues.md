@@ -23,6 +23,6 @@ With this latest bit of tinkering, Pearline now has
 * New water pump
 * Drained and put in new coolant
 
-This all seemed to help. I did a 20 mile drive without stressing her too much. The dash gauge got to "N" (presumably "Normal") within 2 miles of the house and hovered just to the right of "N". I will try to get in a few miles on the next warmish day we have to see if it worked.
+This all seemed to help. I did a 20 mile drive without stressing her too much. The dash gauge got to "N" (presumably "Normal") within 2 miles of the house and hovered just to the right of "N". But, the temperatures last week were in the 50s and 60s (10-18C). I will try to get in a few miles on the next warmish day we have to see if it worked.
 
 While she was torn apart, we upgraded the fuel pump to a new model SU, which bolted in just fine. However, the screen on the fuel line was full of debris. Looking inside the tank, there was plenty of rust. That will be the next upgrade whenever Moss or LBCarCo has a sale.
