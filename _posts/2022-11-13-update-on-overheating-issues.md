@@ -21,6 +21,7 @@ With this latest bit of tinkering, Pearline now has
 * Shroud around the radiator to focus the fan on the radiator
 * 195 degree thermostat
 * New water pump
+* Radiator overflow tank
 * Drained and put in new coolant
 
 This all seemed to help. I did a 20 mile drive without stressing her too much. The dash gauge got to "N" (presumably "Normal") within 2 miles of the house and hovered just to the right of "N". But, the temperatures last week were in the 50s and 60s (10-18C). I will try to get in a few miles on the next warmish day we have to see if it worked.
