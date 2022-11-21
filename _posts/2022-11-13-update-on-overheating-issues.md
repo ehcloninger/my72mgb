@@ -15,7 +15,7 @@ Short answer, too early to tell.
 
 When I was driving Pearline this summer, we were in the midst of a 3-month high-pressure dome over Western Oklahoma. Temperatures were consistently in the high 90's (37C) and above. With the heat radiating from the asphalt, it was miserable to be out in a vehicle that's not air conditioned.
 
-With this latest bit of tinkering, Pearline now has 
+I consulted with the experts on the Reddit [r/littlebritishcars](https://www.reddit.com/r/littlebritishcars/) subreddit and came up with a plan of attack. With this latest bit of tinkering, Pearline now has 
 
 * Upgraded fan from 6-blade metal (OEM) to 7-blade nylon
 * Shroud around the radiator to focus the fan on the radiator
