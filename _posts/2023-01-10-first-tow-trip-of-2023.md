@@ -1,5 +1,5 @@
 ---
-title: "First (tow) trip of 2023"
+title: "First (Tow) Trip of 2023"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -36,6 +36,8 @@ I thanked David for his kind assistance and he departed. I called a guy I know w
 
 ---
 
-Sunday, I went out to start tinkering and she started right up. Consensus from the experts on the MG forums is that I should've spent Saturday installing the gas tank that is sitting on the floor of my shop. Some of the replies suggested the condenser in my distributor could've gone out, but that's unlikely since I had the distributor worked over in 2022 by the foremost authority on those and he's since informed me the likely electrical culprit would be the coil, as a failed condenser won't give you a second chance like the one I got.
+Sunday, I went out to start tinkering and she started right up. Consensus from the experts on the MG forums is that I should've spent Saturday installing the gas tank that is sitting on the floor of my shop instead of a joy ride on a nice day. Some of the replies suggested the condenser in my distributor could've gone out, but that's unlikely since I had the distributor worked over in 2022 by the foremost authority on those. The distributor authority informed me the likely electrical culprit would be the coil, as a failed condenser won't give you a second chance like the one I got.
+
+So, the next set of updates will be to put the tank and sending unit in and possibly a new coil.
 
 > An amusing side-note. In looking for a specific model of coil for my MGB, I found the website of a former co-worker (or I believe to be him). He apparantly has a similar affliction, only with classic VW vans. Crazy, small world. Richard, if you're reading this, I enjoyed reading your site.
