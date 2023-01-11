@@ -26,7 +26,7 @@ This time, there was no restarting. The starter was strong, but no spark. Not ev
 
 I got out of the car to get my tool bag from the trunk/boot and remembered that I had done honey-do's in the morning. My tools were sitting on the garage floor. I didn't even have a rusty set of pliers on me, but I did have a pocket knife. I lifted the hood in disgust and tried to figure out if my knife could work loose the hose on the fuel filter. As I was bent over, a vehicle pulled up behind me.
 
-Out came David, a talk lanky fella who appeared to be in his 70s with a long white beard. David had on a Harley t-shirt and a smile a mile wide. In his hand was a roll of tools. David looked under the hood and said "Ah, she's got the dual SU's. Best carbs out there--I've put them on a bunch of bikes."
+Out came David, a tall lanky fella who appeared to be in his 70s with a long white beard. David had on a Harley t-shirt and a smile a mile wide. In his hand was a roll of tools. David looked under the hood and said "Ah, she's got the dual SU's. Best carbs out there--I've put them on a bunch of bikes."
 
 In between ideas about what the problem might be, I got a bit of David's life history. To say it was colorful would be to leave out a lot of details. Regardless, he was the Good Samaritan I needed at that point, with some tools and enough knowledge to at least make a stab at it. 
 
