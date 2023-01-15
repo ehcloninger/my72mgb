@@ -104,7 +104,7 @@ I used my floor jack to raise the rear end and put the vehicle on jack stands un
 
 1. Put some plumber's Teflon tape on the drain plug bolt and secure into the tank. The plug may not have a rubber seal. Mine did not, so I scavenged one from my tool chest.
 
-    > We had an issue with the tank we received. The plug wouldn't go all the way in and we didn't want to torque it too hard for fear that the welded nut inside the tank would let loose and ruin the tank. We went to the local True Value hardware store and purchased a 1/2" *course* 13-thread/inch tap set. This tool, gently turned with an adjustable wrench into the drain plug hole, re-cut the threads that were fouled up when the manufacturer painted the tank. Once the threads were cut to fit the bolt, the bolt slotted in fine and we were able to fully plant it in the tank.
+    > We had an issue with the tank we received. The plug wouldn't go all the way in and we didn't want to torque it too hard for fear that the welded nut inside the tank would let loose and ruin the tank. We went to the local True Value hardware store and purchased a 1/2" *coarse* 13-thread/inch tap set. This tool, gently turned with an adjustable wrench into the drain plug hole, re-cut the threads that were fouled up when the manufacturer painted the tank. Once the threads were cut to fit the bolt, the bolt slotted in fine and we were able to fully plant it in the tank.
 
 1. The replacement tank hardware kit should have 5 metal clips where you will tighten the top bolts into place. Place these over the holes for the top bolts. I suggest to use some masking tape to hold them in place, as these will move a bit when you install the tank and you don't want to go fishing for them from underneath the vehicle.
 
