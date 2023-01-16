@@ -39,6 +39,8 @@ Spent a nice Saturday afternoon replacing Pearline's fuel tank, with help from a
 
 > This post will be a bit different. Less of a narrative of the experience and more of a "how to". There will be bits of my self here, but the hope is to pass along this knowledge to possibly the next newbie.
 
+> Also, I recognize that I'm mixing tense and person in this post. It's stream-of-consciousness writing. It's not going into a peer-reviewed journal, so I'm confident the point will be made.
+
 After my unplanned [tow trip](/blog/first-tow-trip-of-2023/), I [consulted with the experts on MGExp](https://www.mgexp.com/forum/mgb-and-gt-forum.1/first-tow-trip-of-2023.4604172/). The advice was split between the rust in the tank causing the engine to stop and taking the electrical with it versus the coil went bad from last summers' heat issues causing the fuel pump to stop working. I already had the replacement fuel tank in my garage and I ordered a Pertronix Flame Thrower coil after attempting (and failing) to find the gold standard Bosch Blue 00012 anywhere in North America.
 
 During the week, I prepped by watching a few videos of people changing their MGB tanks. There are several on YouTube, but I like the one below from Steve Denton the best. He doesn't have a lot of useless narration about unrelated stuff, although you have to pay attention to what he's doing to catch the details.
@@ -63,8 +65,6 @@ As you'll read below, there is one part I failed to order and should've.
 
     360-665 x 1 - SENDING UNIT LOCK RING
 
-Also, it turned out the sending unit had a rubber seal, so the 293-410 wasn't necessary, but that part was only $2 or so.
-
 #### Before You Start
 
 > Insert standard safety disclaimer here.
@@ -75,7 +75,7 @@ I used my floor jack to raise the rear end and put the vehicle on jack stands un
 
 #### Step by Step
 
-1. I started off by draining the tank. It was about half full from the dash guage, so about 6 gallons (at $4.00/gallon). Some people use a siphon and I started off doing that as well. The siphon wasn't going fast enough for my liking, so I put a oil pan under the tank and cracked the drain plug at the bottom of the tank, which went faster. Once empty, I drained the oil pan into a pair of 5 gallon (20L) fuel cans for later disposal.
+1. I started off by draining the tank. It was about half full from the dash guage, so about 6 gallons (at $4.00/gallon). Some people use a siphon and I started off doing that as well. The siphon wasn't going fast enough for my liking, so I put an oil pan under the tank and cracked the drain plug at the bottom of the tank, which went faster. Once empty, I drained the oil pan into a pair of 5 gallon (20L) fuel cans for later disposal.
 
 1. Remove the fuel supply hose from the gas cap at the back. This was a couple of spring clamps loosened with a flat screwdriver. Underneath the hose is a vent line that is held with a 9/16" nut. Remove these from the tank and move out of the way.
 
@@ -93,14 +93,15 @@ I used my floor jack to raise the rear end and put the vehicle on jack stands un
 
     > At this point, I realized that I failed to order a part--the ring that holds the sending unit into the side of the tank (Moss no. 360-665). We scavenged the one off the old tank. This ring comes off with a flat blade screwdriver or a punch or chisel, gently tapped counter-clockwise with a hammer. Fortunately, it was intact and could be reused.
     
-
 1. With the tank off, clean the area where it went. Take a wire brush or a drill with a wire head to remove the dirt and grease. Again, **wear safety goggles**. If your vehicle has an undercoating, like mine does, you probably won't need to do any more than this. If there's not a coating, use some rust-resistant paint, such as Rustoleum or *Chassis Black*.
+
+    > The replacement tank I received had a few slight bends where the mounting holes were. We straightened these with a pair of pliers. Otherwise, the holes probably would not have lined up properly.
 
 1. Before putting the tank into the car, assemble the sending unit on the new tank. The sending unit has a couple of non-symmetrical tabs that go into alignment holes on the tank, to ensure you are putting the unit in the correct orientation. Once the gasket and the sending unit are snapped into place, put the locking ring over the sending unit and gently tap it locked with a screwdriver and hammer.
 
-    > The tank I received had a few slight bends where the mounting holes were. We straightened these with a pair of pliers. Otherwise, the holes probably would not have lined up properly.
+    > Even though I'm saying *gently* tap the locking ring, you want to make sure it's snug and won't move further. I didn't get it completely locked into place and ended up with a small leak. The morning after my test drive, I went to the garage to find about 8 oz (250ml) of fuel in the pan I placed under the tank. After I tightened the lock ring a bit further, the drips stopped. The bad part is it's more effort to work on the sending unit with the tank mounted than when it's sitting on the work bench in the garage.
 
-1. Cut the rubber strapping into 3 or four pieces to run the depth of the tank (front to back). The strapping didn't have adhesive, so I used some liquid silicone adhesive to hold the straps in place, so that they wouldn't fall off when mounting. This took about 10 minutes to cure.
+1. Cut the rubber strapping into 3 or 4 pieces to run the depth of the tank (front to back). The strapping didn't have adhesive, so I used some liquid silicone adhesive to hold the straps in place, so that they wouldn't fall off when mounting. This took about 10 minutes to cure.
 
 1. Put some plumber's Teflon tape on the drain plug bolt and secure into the tank. The plug may not have a rubber seal. Mine did not, so I scavenged one from my tool chest.
 
