@@ -20,3 +20,11 @@ Over the next hour and a half, I drove 75 miles (120 km) at speeds up to 80 MPH 
 When I returned to town, I pulled back into the same fuel station and topped her back up. I went 75.3 miles (120 km) using 3.3 gallons (12.5 L) of fuel. This came to 22.9 MPG (9.7 KPL) for the trip. Not great, but better than I was getting last summer, when I was getting closer to 15 MPG (6.3 KPL).
 
 When I pulled in my garage, my friend Todd pulled in behind me, having seen me speeding through town. We had a beer and talked about (American) football for a while. I noticed a small puddle of fuel beneath Pearline as he was leaving. My guess is we didn't get the fuel pump line tight enough. Tomorrow is a work holiday, so I'll get her put up on jackstands and track that down. 
+
+> 2023-01-16 - I got the MGB up on jackstands on Sunday morning. There was some drips on the floor of the garage. I drained the full fuel tank into 2 empty 5 gallon (20L) fuel cans, leaving perhaps 2 gallons (8L) in the tank. I tapped the lock ring off and compared the gasket from the sending unit with the one that I ordered separately. If only a bit, the separate gasket was a bit thicker. Or at least to my imagination. 
+
+> I reassembled everything and made sure to tap the lock ring as tight as I could get from a prone position, on my back, under the tank. I refilled the tank from the fuel cans and then stopped at the filling station to top up any lost fuel. I went for a 75 mile (110 Km) drive, stopping a few times to let her sit and rest to see if any leaks happened. I had no issues.
+
+> The next day, I could smell fuel in the garage, but there isn't any evidence of dripping. I am hoping it's just residual fuel smell from the previous day.
+
+> It turns out the drip was because the sending unit lock ring wasn't tightened enough. I've since edited the previous post to indicate that the ring needs to be firmly tightened.

@@ -7,28 +7,28 @@ tags:
   - photos
   - repairs
 gallery: 
-  - url: /assets/images/2023-01-15/20230114_144904.jpg
-    image_path: /assets/images/2023-01-15/thumbnails/20230114_144904.jpg
+  - url: /assets/images/2023-01-14/20230114_144904.jpg
+    image_path: /assets/images/2023-01-14/thumbnails/20230114_144904.jpg
     alt: ""
     title: "Straightening the bolt tabs. Probably bent from shipping."
-  - url: /assets/images/2023-01-15/20230114_144942.jpg
-    image_path: /assets/images/2023-01-15/thumbnails/20230114_144942.jpg
+  - url: /assets/images/2023-01-14/20230114_144942.jpg
+    image_path: /assets/images/2023-01-14/thumbnails/20230114_144942.jpg
     alt: ""
     title: "Up on jack stands, ready for surgery."
-  - url: /assets/images/2023-01-15/20230114_144952.jpg
-    image_path: /assets/images/2023-01-15/thumbnails/20230114_144952.jpg
+  - url: /assets/images/2023-01-14/20230114_144952.jpg
+    image_path: /assets/images/2023-01-14/thumbnails/20230114_144952.jpg
     alt: ""
     title: "Old tank out, resting on pickup bed."
-  - url: /assets/images/2023-01-15/20230114_145010.jpg
-    image_path: /assets/images/2023-01-15/thumbnails/20230114_145010.jpg
+  - url: /assets/images/2023-01-14/20230114_145010.jpg
+    image_path: /assets/images/2023-01-14/thumbnails/20230114_145010.jpg
     alt: ""
     title: "Bolts out, tank out."
-  - url: /assets/images/2023-01-15/20230114_145024.jpg
-    image_path: /assets/images/2023-01-15/thumbnails/20230114_145024.jpg
+  - url: /assets/images/2023-01-14/20230114_145024.jpg
+    image_path: /assets/images/2023-01-14/thumbnails/20230114_145024.jpg
     alt: ""
     title: "Underside is a bit dirty, but still coated and not rusty."
-  - url: /assets/images/2023-01-15/20230114_150719.jpg
-    image_path: /assets/images/2023-01-15/thumbnails/20230114_150719.jpg
+  - url: /assets/images/2023-01-14/20230114_150719.jpg
+    image_path: /assets/images/2023-01-14/thumbnails/20230114_150719.jpg
     alt: ""
     title: "Bolting in the new tank."
 ---
