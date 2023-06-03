@@ -24,7 +24,7 @@ og_image: "https://my72mgb.com/assets/images/bio-photo.jpg"
 
 # Build settings
 markdown: kramdown
-remote_theme: ehcloninger/modified-mistakes-skeleton
+remote_theme: ehcloninger/minimal-mistakes
 # theme: minimal-mistakes-jekyll
 # Outputting
 permalink: /:categories/:title/
@@ -34,6 +34,12 @@ paginate_path: /page:num/
 twitter:
   username: my1972mgb
   image: https://my72mgb.com/favicon.png
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-L5K6PMWZNT"
+    anonymize_ip: false # default
 
 include:
   - _pages
@@ -58,7 +64,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-twitter-plugin
+  - jekyll-remote-theme
 
 author:
   name   : "Pearline White"
@@ -83,8 +89,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram-square"
       url: "https://instagram.com/my72mgb"
-
-github: [metadata]
 
 defaults:
   # _posts

@@ -25,8 +25,8 @@ og_image: "https://my72mgb.com/assets/images/bio-photo.jpg"
 
 # Build settings
 markdown: kramdown
-# remote_theme: ehcloninger/modified-mistakes-skeleton
-local_theme: modified-mistakes-skeleton
+remote_theme: ehcloninger/minimal-mistakes
+# local_theme: modified-mistakes-skeleton
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -35,6 +35,12 @@ paginate_path: /page:num/
 twitter:
   username: my1972mgb
   image: https://my72mgb.com/favicon.png
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-L5K6PMWZNT"
+    anonymize_ip: false # default
 
 include:
   - _pages
@@ -60,7 +66,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-twitter-plugin
-  - jekyll-local-theme
+  - jekyll-remote-theme
 
 author:
   name   : "Pearline White DEV"
