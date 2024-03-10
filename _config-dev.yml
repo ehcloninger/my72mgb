@@ -81,7 +81,7 @@ author:
       target: _blank
     - label: "Photos"
       icon: "fas fa-fw fa-camera"
-      url: https://photos.ericcloninger.com/My-1972-MGB
+      url: /photos/index.html
       target: _blank
 footer:
   links:

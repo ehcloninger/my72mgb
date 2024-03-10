@@ -1,0 +1,35 @@
+---
+layout: photos
+title: 1972 MGB Photos
+albums:
+  - url: /photos/beauty-shots
+    image: /photos/beauty-shots/thumbnail.jpg
+    title: "Beauty Shots"
+  - url: /photos/restoration-project
+    image: /photos/restoration-project/thumbnail.jpg
+    title: "Restoration Project"
+---
+
+<p style="text-align: center;">
+    <table style="border: 0px; width: 100%;">
+        <tr>
+            {% assign even_odd = 0 %} 
+            {% for album in page.albums %}
+                {% if even_odd == 0 %}
+                    <tr>
+                {% endif %}
+                <td style="width: 50%;">
+                <figure>
+                    <a href="{{ album.url }}"><img src="{{ album.image }}" alt="{{ album.title }}"></a>
+                    <figcaption style="text-align: center;width: 100%">{{ album.title }}</figcaption>
+                </figure>
+                {% assign even_odd = even_odd | plus: 1 %} 
+                {% if even_odd > 1 %}
+                    {% assign even_odd = 0 %} 
+                    </tr>
+                {% endif %}
+            </td>
+        {% endfor %}
+        </tr>
+    </table>
+</p>

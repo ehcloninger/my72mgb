@@ -17,5 +17,6 @@ group :jekyll_plugins do
   gem "kramdown-parser-gfm"
   gem "jekyll-remote-theme"
   gem "jekyll-twitter-plugin"
+  gem "faraday-retry"
 #  gem "jekyll-algolia"
 end

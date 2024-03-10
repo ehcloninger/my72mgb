@@ -79,13 +79,10 @@ author:
       target: _blank
     - label: "Photos"
       icon: "fas fa-fw fa-camera"
-      url: https://photos.ericcloninger.com/My-1972-MGB
+      url: /photos/index.html
       target: _blank
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/my1972mgb"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram-square"
       url: "https://instagram.com/my72mgb"
