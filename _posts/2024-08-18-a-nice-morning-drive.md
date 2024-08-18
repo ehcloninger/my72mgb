@@ -27,7 +27,7 @@ The origin of one of the most notable songs about the joy of driving a car.
 
 <p style="text-align: center;">&#x1F658;&nbsp;&#x1F65A;</p>
 
-If you;re a fan of the band [Rush](https://www.rush.com/), you've probably heard "[Red Barchetta](https://www.youtube.com/watch?v=_LXKZq0fYDw)" many times, because it is a classic. Neal Peart (RIP) was their main lyricist and he loved to write songs based on what he was reading. I always assumed Red Barchetta was about an Italian sports car, based on the name, but I was wrong. It turns out, the inspiration came from an article from the November 1973 edition of [Road & Track](https://www.roadandtrack.com/) magazine.
+If you;re a fan of the band [Rush](https://www.rush.com/), you've probably heard "[Red Barchetta](https://www.youtube.com/watch?v=_LXKZq0fYDw)" many times, because it is a classic. Neil Peart (RIP) was their main lyricist and he loved to write songs based on what he was reading. I always assumed Red Barchetta was about an Italian sports car, based on the name, but I was wrong. It turns out, the inspiration came from an article from the November 1973 edition of [Road & Track](https://www.roadandtrack.com/) magazine.
 
 There are scans of this article floating around the Internet and you can pull a PDF from dozens of places. I've reproduced the article here. Road & Track is the owner and Richard S. Foster was the author.
 
@@ -63,11 +63,11 @@ It was a long time before Buzz had the MG rebuilt to its original pristine condi
 
 ### My Thoughts
 
-*A Nice Morning Drive* is not epic fiction, by any means. The author was a graduate student and his own comments (linked below) indicate he was shocked that it was accepted for publication. Regardless, it's fun and does represent the world-view that Neal Peart had at the time. A lot of Neal's lyrics refer to the negative aspects of world government. He also cites Ayn Rand as an inspiration for some of his work on the sprawling [2112](https://en.wikipedia.org/wiki/2112_(album)) album. I'm not a fan of the writing or world-view of Ms. Rand as she turned out to be a hypocrite in her later years. Regardless, it's great to know the origin of the song and its' tie to the MGB.
+*A Nice Morning Drive* is not epic fiction, by any means. The author was a graduate student and his own comments (linked below) indicate he was shocked that it was accepted for publication. Regardless, it's fun and does represent the world-view that Neil Peart had at the time. A lot of Neil's lyrics refer to the negative aspects of world government. He also cites Ayn Rand as an inspiration for some of his work on the sprawling [2112](https://en.wikipedia.org/wiki/2112_(album)) album. I'm not a fan of the writing or world-view of Ms. Rand as she turned out to be a hypocrite in her later years. Regardless, it's great to know the origin of the song and its' tie to the MGB.
 
 ### Postscript
 
-Richard S. Foster, the author of the short story found out later about his links to the song and struck up a friendship with Neal Peart. I enjoyed reading the comments from the author on [this page](https://www.bmwbmw.org/forums/viewtopic.php?f=22&t=8693&hilit=red+barchetta) about the origin of the song and his motorcycle trips later on.  
+Richard S. Foster, the author of the short story found out later about his links to the song and struck up a friendship with Neil Peart. I enjoyed reading the comments from the author on [this page](https://www.bmwbmw.org/forums/viewtopic.php?f=22&t=8693&hilit=red+barchetta) about the origin of the song and his motorcycle trips later on.  
 
 **NOTE:** The original content of this quote is on a motorcycle forum site that has an expired SSL certificate. The writer, Rick F, presumably is Richard Foster. That link, for as long as it lives, is a fun read as well. If the site should go offline, I have [his post archived](/assets/documents/rick-foster-forum-post.pdf) on this site. I've confirmed that the document opens, but some browsers seem to have problems with the size of the document.
 
