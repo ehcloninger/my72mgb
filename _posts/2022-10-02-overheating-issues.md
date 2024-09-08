@@ -7,8 +7,8 @@ tags:
   - repairs
   - photos
 gallery: 
-  - url: https://photos.smugmug.com/photos/i-FQc6zFS/0/980a4b3a/X2/i-FQc6zFS-X2.jpg
-    image_path: https://photos.smugmug.com/photos/i-FQc6zFS/0/980a4b3a/X2/i-FQc6zFS-X2.jpg
+  - url: /assets/images/2022-10-02/20220618_084258.jpg
+    image_path: /assets/images/2022-10-02/thumbnails/20220618_084258.jpg
     alt: ""
     title: "Mr. and Mrs."
 ---

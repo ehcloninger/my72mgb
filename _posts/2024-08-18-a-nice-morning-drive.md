@@ -27,7 +27,7 @@ The origin of one of the most notable songs about the joy of driving a car.
 
 <p style="text-align: center;">&#x1F658;&nbsp;&#x1F65A;</p>
 
-If you;re a fan of the band [Rush](https://www.rush.com/), you've probably heard "[Red Barchetta](https://www.youtube.com/watch?v=_LXKZq0fYDw)" many times, because it is a classic. Neil Peart (RIP) was their main lyricist and he loved to write songs based on what he was reading. I always assumed Red Barchetta was about an Italian sports car, based on the name, but I was wrong. It turns out, the inspiration came from an article from the November 1973 edition of [Road & Track](https://www.roadandtrack.com/) magazine.
+If you're a fan of the band [Rush](https://www.rush.com/), you've probably heard "[Red Barchetta](https://www.youtube.com/watch?v=_LXKZq0fYDw)" many times, because it is a classic. Neil Peart (RIP) was their main lyricist and he loved to write songs based on what he was reading. I always assumed Red Barchetta was about an Italian sports car, based on the name, but I was wrong. It turns out, the inspiration came from an article from the November 1973 edition of [Road & Track](https://www.roadandtrack.com/) magazine.
 
 There are scans of this article floating around the Internet and you can pull a PDF from dozens of places. I've reproduced the article here. Road & Track is the owner and Richard S. Foster was the author.
 
