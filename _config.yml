@@ -31,10 +31,6 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 
-twitter:
-  username: my1972mgb
-  image: https://my72mgb.com/favicon.png
-
 analytics:
   provider: "google-gtag"
   google:
@@ -70,8 +66,6 @@ author:
   name   : "Pearline White"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "That spiffy car you saw somewhere"
-  twitter: "my1972mgb"
-  instagram: "my72mgb"
   links:
     - label: "EricCloninger.com"
       icon: "fas fa-fw fa-link"
@@ -81,11 +75,19 @@ author:
       icon: "fas fa-fw fa-camera"
       url: /photos/index.html
       target: _blank
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: https://bsky.app/profile/my72mgb.bsky.social
+      target: _blank
 footer:
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram-square"
       url: "https://instagram.com/my72mgb"
+  links:
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/my72mgb.bsky.social"
 
 defaults:
   # _posts

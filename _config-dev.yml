@@ -72,8 +72,6 @@ author:
   name   : "Pearline White DEV"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "That spiffy car you saw somewhere"
-  twitter: "my1972mgb"
-  instagram: "my72mgb"
   links:
     - label: "EricCloninger.com"
       icon: "fas fa-fw fa-link"
@@ -83,14 +81,15 @@ author:
       icon: "fas fa-fw fa-camera"
       url: /photos/index.html
       target: _blank
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: https://bsky.app/profile/my72mgb.bsky.social
+      target: _blank
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/my1972mgb"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram-square"
-      url: "https://instagram.com/my72mgb"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/my72mgb.bsky.social"
 
 github: [metadata]
 
