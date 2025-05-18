@@ -23,6 +23,6 @@ advertised the starter pack on a few other sites where drivers connect.
 
 If you're on Bluesky, join us!
 
-[![](/assets/images/2025-05-18/bsky-lbc-starter-pack.jpg)](https://bsky.app/starter-pack-short/SoYKmPM)
+[![](/assets/images/2025-05-18/bsky-lbc-starter-pack.jpg)](https://go.bsky.app/SoYKmPM)
 
-[https://bsky.app/starter-pack-short/SoYKmPM](https://bsky.app/starter-pack-short/SoYKmPM)
+[https://go.bsky.app/SoYKmPM](https://go.bsky.app/SoYKmPM)
