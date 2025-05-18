@@ -18,7 +18,7 @@ Anyway, onto the "fun" stuff.
 
 ### The Yard
 
-The wife and I decided we wanted a new swimming pool. We've had those $800 jobs you get at Academy that last a couple years and then you throw them in the dumpster. We're getting to old to maintain cheap crap and decided to put some money into a proper pool and privacy fencing. Being a cheapskate, I decided I could still put up fencing and form concrete. *Long story short*, I still can, but just barely. The pool was installed by people who know what they're doing. The grandkids are enjoying it and we are too. Makes these 100+ degree (38C) days tolerable.
+The wife and I decided we wanted a new swimming pool. We've had those $800 jobs you get at Academy that last a couple years and then you throw them in the dumpster. We're getting too old to maintain cheap crap and decided to put some money into a proper pool and privacy fencing. Being a cheapskate, I decided I could still put up fencing and form concrete. *Long story short*, I still can, but just barely. The pool was installed by people who know what they're doing. The grandkids are enjoying it and we are too. Makes these 100+ degree (38C) days tolerable.
 
 As part of this process, I moved Pearline out of her happy place in the shop to the house garage so I could put fencing, concrete forms, and various plumbing parts in the shop. Once all those other things were done, I went to move Pearline back to her spot. We made it there, but just barely. There was fuel on the floor of the garage and a trail of petrol all the way around the block. Oops.
 
