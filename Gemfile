@@ -16,6 +16,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "kramdown-parser-gfm"
   gem "jekyll-remote-theme"
+  gem "jekyll-local-theme"
   gem "jekyll-twitter-plugin"
   gem "faraday-retry"
 #  gem "jekyll-algolia"
