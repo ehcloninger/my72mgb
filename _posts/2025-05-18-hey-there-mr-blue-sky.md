@@ -11,7 +11,7 @@ Making some changes to social media accounts that I'm using.
 
 <!--more-->
 
-Yes, it's an [ELO reference](https://youtu.be/wuJIqmha2Hk?si=-M_lEQFCzVxpiU_q).
+Yes, the title is an [ELO reference](https://youtu.be/wuJIqmha2Hk?si=-M_lEQFCzVxpiU_q).
 
 While updating this site yesterday, I realized that I still have Twitter links in the side bar. I've
 been using Bluesky for the last year and so I created an account for Pearline for our travels. I have 
